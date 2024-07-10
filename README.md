@@ -1,5 +1,5 @@
 # icecream
-アイスクリームの需要推定
+#アイスクリームの需要推定
 
 data <- readr::read_csv(file.choose(), locale = locale(encoding = "shift-jis"))
 
